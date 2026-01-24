@@ -8,3 +8,9 @@ Problems solved:
 Language: C  
 Platform: LeetCode  
 Focus: Basic array manipulation & time complexity
+
+### Move Zeroes
+- Brute-force solution using nested loops
+- Time Complexity: O(n²)
+- Space Complexity: O(1)
+- Optimized two-pointer solution will be added
