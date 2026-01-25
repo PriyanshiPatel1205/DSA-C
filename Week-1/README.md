@@ -6,9 +6,7 @@ Problems solved:
 - Remove Element
 - Move Zeros
 - Single Number
-- Container With Most Water
 
 Language: C  
 Platform: LeetCode  
 Focus: Basic array manipulation & time complexity
-
